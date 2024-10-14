@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+}
+
+#spotify-results li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+#lyrics span {
+    cursor: pointer;
+    color: blue;
+}
